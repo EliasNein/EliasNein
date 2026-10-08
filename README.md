@@ -1,0 +1,46 @@
+# Hi, ich bin Elias
+
+Ich komme aus Erlangen, habe Kaufmann im Einzelhandel gelernt und steige jetzt in die Softwareentwicklung ein. Ich bringe mir Programmieren selbst bei und setze es in eigenen Projekten um.
+
+## Wonach ich suche
+
+- Ausbildung zum **Fachinformatiker für Anwendungsentwicklung**
+- Einstieg als **Gen AI Engineer**, **Frontend Developer** oder **Full Stack Developer**
+
+## Projekte
+
+### [crypto-bot](https://github.com/EliasNein/crypto-bot)
+Vier eigenständige Python-Bots (DCA, Grid, Trend-Following und ein Kapital-Allocator) gegen die Binance-Spot-**Testnet**-API, es wird kein echtes Geld bewegt. Dazu eine eigene Dashboard-App (FastAPI, nur lesend).
+- Sicherheit zuerst: Dry-Run als Standard, Notaus auf mehreren Wegen, atomar geschriebene Ledger, Abgleich mit der Börse nach Verbindungsfehlern
+- Mehrere Review-Runden, jeder Fund mit Test; neue Prüfungen habe ich per Mutationstest abgesichert (den Fehler wieder einbauen, der Test muss rot werden)
+- Backtests über historische Marktphasen, Betrieb als systemd-Dienste auf meinem Homeserver
+- Doku auf Deutsch und Englisch
+- Technik: Python, FastAPI, JavaScript, pytest/unittest, Playwright, Linux
+
+### [realcam](https://github.com/EliasNein/realcam)
+Lokale Video-Pipeline, die Gameplay-Aufnahmen den Look einer echten Kamera gibt: Bewegungsunschärfe, Restaurierung, Filmkorn und Color Grading. Läuft komplett auf dem eigenen Rechner, konfigurierbar über Presets.
+- Technik: Python, FFmpeg
+
+### [Amazon](https://github.com/EliasNein/Amazon)
+Online-Shop im Stil von Amazon. Seiten für Produkte, Checkout, Bestellungen und Sendungsverfolgung, dazu ein Backend-Teil und Tests. Nicht mit Amazon verbunden.
+- Technik: JavaScript, HTML, CSS
+
+## Technik
+
+**Sprachen:** Python, JavaScript, HTML, CSS
+**Werkzeuge:** Git, GitHub, Linux, systemd, FastAPI, pytest, Playwright
+**Homelab:** TrueNAS, virtuelle Maschinen, Cloudflare Tunnel
+
+## Hintergrund
+
+Ausbildung zum Kaufmann im Einzelhandel bei Aldi Süd (2021 bis 2024), danach als Führungskraft übernommen, mit zeitweiser Vertretung der Filialleitung. Von dort nehme ich Verlässlichkeit und den Blick für Abläufe mit.
+
+Ich arbeite mit KI-Werkzeugen wie Claude Code. Aufbau, Entscheidungen, Prüfung und Betrieb meiner Projekte liegen bei mir.
+
+## Neben dem Code
+
+Homelab, Kraftsport, Japanisch. Sprachen: Deutsch (Muttersprache), Englisch (B2)
+
+## Kontakt
+
+Portfolio: [portfolio.elias-nein.com](https://portfolio.elias-nein.com)
