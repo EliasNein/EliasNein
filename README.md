@@ -1,7 +1,7 @@
    <picture>
-     <source media="(prefers-color-scheme: dark)" srcset="profile-dark.svg">
-     <source media="(prefers-color-scheme: light)" srcset="profile-light.svg">
-     <img alt="GitHub-Profil von EliasNein im Neofetch-Stil" src="profile-dark.svg" width="100%">
+     <source media="(prefers-color-scheme: dark)" srcset="profile-card-dark.svg">
+     <source media="(prefers-color-scheme: light)" srcset="profile-card-light.svg">
+     <img alt="GitHub-Profil von EliasNein im Neofetch-Stil" src="profile-card-dark.svg" width="100%">
    </picture>
 
 # Hi, ich bin Elias
