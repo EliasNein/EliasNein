@@ -1,3 +1,11 @@
+   <p align="center">
+     <picture>
+       <source media="(prefers-color-scheme: dark)" srcset="profile-dark.svg">
+       <source media="(prefers-color-scheme: light)" srcset="profile-light.svg">
+       <img alt="GitHub-Profil von EliasNein im Neofetch-Stil" src="profile-dark.svg">
+     </picture>
+   </p>
+
 # Hi, ich bin Elias
 
 Ich komme aus Erlangen, habe Kaufmann im Einzelhandel gelernt und steige jetzt in die Softwareentwicklung ein. Ich bringe mir Programmieren selbst bei und setze es in eigenen Projekten um.
