@@ -50,3 +50,4 @@ Homelab, Kraftsport, Japanisch. Sprachen: Deutsch (Muttersprache), Englisch
 ## Kontakt
 
 Portfolio: [portfolio.elias-nein.com](https://portfolio.elias-nein.com)
+Email: (eliasit.business@gmail.com)
