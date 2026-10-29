@@ -23,6 +23,14 @@ Vier eigenständige Python-Bots (DCA, Grid, Trend-Following und ein Kapital-Allo
 - Doku auf Deutsch und Englisch
 - Technik: Python, FastAPI, JavaScript, pytest/unittest, Playwright, Linux
 
+### [Reparatur-Kompass](https://github.com/EliasNein/reperatur-kompass-public)
+Local-first App für Android und iOS, die Kassenbons verwaltet und zeigt, welche Ansprüche bei einem Produkt voraussichtlich noch bestehen: Gewährleistung, Herstellergarantie und das neue Recht auf Reparatur. Kein Konto, kein Server, alle Daten bleiben auf dem Gerät. Das MVP ist fertig und in der Testphase, der Quellcode ist derzeit nicht öffentlich.
+- Regel-Engine für Fristen nach deutschem Recht (BGB), die Regeln liegen als versionierte JSON-Daten mit Quellen und Prüfstand vor
+- Belege per Kamera, Galerie oder PDF erfassen, Texterkennung direkt auf dem Gerät
+- Defektfall-Assistent mit Musterbrief als PDF und einer Fall-Akte mit Zeitleiste
+- Über 1.000 automatisierte Tests, dazu Property-based Tests, Mutationstests (Stryker) und End-to-End-Flows (Maestro)
+- Technik: TypeScript, React Native, Expo, SQLite, Jest
+
 ### [realcam](https://github.com/EliasNein/realcam)
 Lokale Video-Pipeline, die Gameplay-Aufnahmen den Look einer echten Kamera gibt: Bewegungsunschärfe, Restaurierung, Filmkorn und Color Grading. Läuft komplett auf dem eigenen Rechner, konfigurierbar über Presets.
 - Technik: Python, FFmpeg
