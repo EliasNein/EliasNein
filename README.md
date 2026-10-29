@@ -41,8 +41,8 @@ Online-Shop im Stil von Amazon. Seiten für Produkte, Checkout, Bestellungen und
 
 ## Technik
 
-**Sprachen:** Python, JavaScript, HTML, CSS
-**Werkzeuge:** Git, GitHub, Linux, systemd, FastAPI, pytest, Playwright
+**Sprachen:** Python, JavaScript, TypeScript, HTML, CSS
+**Werkzeuge:** Git, GitHub, Linux, systemd, FastAPI, React Native, Expo, SQLite, pytest, Jest, Playwright, Maestro, Stryker
 **Homelab:** TrueNAS, virtuelle Maschinen, Cloudflare Tunnel
 
 ## Hintergrund
