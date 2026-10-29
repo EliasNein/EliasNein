@@ -45,7 +45,7 @@ Ich arbeite mit KI-Werkzeugen wie Claude Code. Aufbau, Entscheidungen, Prüfung 
 
 ## Neben dem Code
 
-Homelab, Kraftsport, Japanisch. Sprachen: Deutsch (Muttersprache), Englisch (B2)
+Homelab, Kraftsport, Japanisch. Sprachen: Deutsch (Muttersprache), Englisch
 
 ## Kontakt
 
