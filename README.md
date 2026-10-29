@@ -11,7 +11,7 @@ Ich komme aus Erlangen, habe Kaufmann im Einzelhandel gelernt und steige jetzt i
 ## Wonach ich suche
 
 - Ausbildung zum **Fachinformatiker für Anwendungsentwicklung**
-- Einstieg als **App-/Web-Developer**, **Frontend** oder **Full Stack**
+- Einstieg als **App || Web-Developer**, **Frontend** || **Full Stack**
 
 ## Projekte
 
