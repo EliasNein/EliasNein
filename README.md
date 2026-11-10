@@ -48,7 +48,7 @@ Online-Shop im Stil von Amazon. Seiten für Produkte, Checkout, Bestellungen und
 
 Ausbildung zum Kaufmann im Einzelhandel bei Aldi Süd (2021 bis 2024), danach als Führungskraft übernommen, mit zeitweiser Vertretung der Filialleitung. Von dort nehme ich Verlässlichkeit und den Blick für Abläufe mit.
 
-Ich arbeite mit KI-Werkzeugen wie Claude Code. Aufbau, Entscheidungen, Prüfung und Betrieb meiner Projekte liegen bei mir.
+Ich bevorzuge manuelles Programmieren, arbeite aber auch mit KI-Werkzeugen wie Claude Code. Aufbau, Entscheidungen, Prüfung und Betrieb meiner Projekte liegen bei mir.
 
 ## Neben dem Code
 
