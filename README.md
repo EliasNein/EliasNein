@@ -35,7 +35,7 @@ Lokale Video-Pipeline, die Gameplay-Aufnahmen den Look einer echten Kamera gibt:
 - Technik: Python, FFmpeg
 
 ### [Amazon](https://github.com/EliasNein/Amazon)
-Online-Shop im Stil von Amazon. Seiten für Produkte, Checkout, Bestellungen und Sendungsverfolgung, dazu ein Backend-Teil und Tests. Nicht mit Amazon verbunden.
+Hard-Coded-Online-Shop im Stil von Amazon. Seiten für Produkte, Checkout, Bestellungen und Sendungsverfolgung, dazu ein Backend-Teil und Tests. Nicht mit Amazon verbunden.
 - Technik: JavaScript, HTML, CSS
 
 ## Technik
