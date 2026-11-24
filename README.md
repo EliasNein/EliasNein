@@ -8,9 +8,9 @@
 
 Ich komme aus Erlangen, habe Kaufmann im Einzelhandel gelernt und steige jetzt in die Softwareentwicklung ein. Ich bringe mir Programmieren selbst bei und setze es in eigenen Projekten um.
 
-## Wonach ich suche
+## Mein Ziel
 
-- Einstieg als **App || Web-Developer**, **Frontend** || **Full Stack**
+<strong>Softwareentwickler</strong>
 
 ## Projekte
 
